@@ -1,4 +1,7 @@
-## Hi there 👋
+## How's life? 👋
+
+### 🍎 I'm currently focused on 'ricing' my Mac setup.
+### 👨🏽‍💻 Will I release any projects? Stay tuned!
 
 <!--
 **laustinrivar/laustinrivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
