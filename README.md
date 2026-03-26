@@ -1,4 +1,4 @@
-## How's life? 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=How's+life?+👋)](https://git.io/typing-svg)
 
 ### 🍎 I'm currently focused on 'ricing' my Mac setup.
 ### 👨🏽‍💻 Will I release any projects? Stay tuned!
